@@ -1,0 +1,32 @@
+/******************************************************************************
+                         Workshop - #3 Reflection
+Full Name   : Manav Alpeshbhai Zadafiya
+Student ID# : 144095221
+Email       : mazadafiya@myseneca.ca
+Section     : Z
+Authenticity Declaration:
+I declare this submission is the result of my own work and has not been
+shared with any other student or 3rd party content provider. This submitted
+piece of work is entirely of my own creation.
+******************************************************************************/
+
+ANSWER:
+In this workshop, I learn and implement concept of encapsulation by encapsulating 
+'Train' using the name, departure time and number of passengers. Moreover, I learned
+about constructor which is special member function with same name as of class, destructor,
+member functions, privacy, safe empty state and also used concepts from previous workshop 
+like dynamic memory allocation to allocate memory dynamically to Train data members.
+After completing this workshop successfully, I am able to use this concepts effectively
+to meet the program requirement. Also, I used 'this' keyword for first time that returns 
+the address of the current object.and get more familiar with concepts of Object oriented 
+programming like why to use, how to use and when to use.
+Apart from all this, I get chance to know this concepts closely with this workshop like:
+how to define a class type and how it is different from struct.
+how to privatize data within the class type and why we do so.
+how to initiate objects of class type and how to initiate it to safe empty state.
+how to use member functions to query and change the state of an object.
+how to dynamically allocate and deallocate memory within a class.
+I feel this workshop is more easier than previous ones as the program is simple and we 
+have work with only two modules are there. I find it difficult to work with multiple 
+modules as we did earlier. Overall, with introduction many new concepts this workshop 
+helps me to dive deeper in OOPs.
