@@ -1,0 +1,46 @@
+/**************************************************************************
+                          Final Project OOP244
+Full Name   : Manav Alpeshbhai Zadafiya
+Student ID# : 144095221
+Email       : mazadafiya@myseneca.ca
+Section     : ZCC
+Date        : 2023-12-08
+Authenticity Declaration:
+I have done all the coding by myself and only copied the code that my
+professor provided to complete my workshops and assignments.
+**************************************************************************/
+
+FINAL REFLECTION FOR OOP244:
+In final project, I have learned to implement concepts of OOP that we had 
+learned in this course so far like encapsulation, inheritance and polymorphism 
+by using hierachy structure of classes by inherting base class functionalities 
+from iProduct module to derived classes in item and perishable module, 
+overloading various operators to configure object behaviour with operators, 
+overriding methods behaviour using virtual functions and to use various 
+standard libraries like "iomanip", "fstream", "sstream", "ctime", "limits" 
+etc., using libraries helps us to add more functionalities easily. Moreover, 
+I learned I/O file operations to read and write data from and into files and 
+boost my understanding of filehandling in programming. In addition to that, I 
+learned how to write code for large applications like this and how to overcome 
+challenges. Although, I believe that i have work more harder to learn and 
+explore this concepts even more in detail with it's wide usage spectrum.
+
+
+The final project help us to apply all the key concepts that we understood and 
+explain by professor in this course. Basically, this project is mixture of all 
+workshop that help us to apply all our understanding of language and it's 
+conceptsforcing us to think critically and implement it in actual working code. 
+The first part is building block of application in which we get familiar with 
+requirements of application and Started by creating Status and Date module and 
+using Utils for Additional utility functions, with milestone progresses we added 
+more modules such as menu, AidMan, iProduct, Item and Perishable. However, the 
+last milestone 5 is one of most challenging for me as it require all module to 
+function properly and interact with each other to get the required result. 
+Ignoring the challenges and time needed for completing it lead to delayed 
+submission of milestones 5 parts and still I am working on last part which is 
+almost complete. Overall, the course is very comphrehensive to cover the 
+concepts of Object-Oriented-Programming along with theroy resources and notes, 
+workships and exercise. Although it might be difficult for students who do not 
+have any programming background and learning OOP for first time, guidance from 
+professor and college resources can help one to grab the conceptsquickly and 
+apply in workshops and project.
