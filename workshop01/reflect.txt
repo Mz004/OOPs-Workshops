@@ -1,0 +1,27 @@
+/******************************************************************************
+			   Workshop - #1 Reflection
+Full Name   : Manav Alpeshbhai Zadafiya
+Student ID# : 144095221
+Email       : mazadafiya@myseneca.ca
+Section     : ZCC
+Authenticity Declaration:
+I declare this submission is the result of my own work and has not been
+shared with any other student or 3rd party content provider. This submitted
+piece of work is entirely of my own creation.
+******************************************************************************/
+
+Part 1 of workshop 01 is simple as compared to part 2 in my opinion due to provided 
+step by step instruction to achieve required output. However, workshop leads to clear 
+concepts of using namespace, compliling using g++, exploring modular programming and
+file handling in more detail. Moreover, Part 2(D.I.Y) requires more time and effort 
+than part 1 which is obvious as it forces us to think more critically to solve specific 
+problems to deal with text files. This workshop helps in building strong foundation for 
+upcoming concepts we would learn and practice in OOP workshops. In part one, Designing 
+function to perform specific task is most challenging part like converting text to lower 
+case, copy it and use it with other modules while in part two, handling text file to 
+achieve required output is one of most tedious for me. I think ,OOP will help me to 
+better understand the concepts of programming that are not as cleared in previous term. 
+At last, course notes are very  helpful along with lectures to fully understand the 
+topics and play important role in building solutions for workshops.
+
+ 
