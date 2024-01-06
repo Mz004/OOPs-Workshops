@@ -1,0 +1,27 @@
+/******************************************************************************
+                         Workshop - #4 Reflection
+Full Name   : Manav Alpeshbhai Zadafiya
+Student ID# : 144095221
+Email          : mazadafiya@myseneca.ca
+Section       : ZCC
+Authenticity Declaration:
+I declare this submission is the result of my own work and has not been
+shared with any other student or 3rd party content provider. This submitted
+piece of work is entirely of my own creation.
+******************************************************************************/
+
+This workshop helps me to understand constructors and destructors in more 
+details along with pointer members. By completing this workshop, I came to know 
+that default constructor is a constructor that is automatically called when an object 
+is created. It doesn't take any arguments, and used to initialize the object's data 
+members like we did in both part. Moreover, I learned about overloaded constructor 
+which is a constructor that takes parameters. This allows us to create objects with 
+different initial states based on the values we provide while creating an object.
+Also, this worshop helps me to dive deeper in destructor which is a special member 
+function that is called when an object goes out of scope and used to perform cleanup
+activities like releasing memory or files. 
+
+Apart from constructors and destructors, I now know exactly how to initialize member
+variables using constructors and member pointer that points to data members and 
+member functions. I felt that pointer member is somewhat more complex than regular 
+pointers which i believe becomes easier with practice.
