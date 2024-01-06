@@ -1,0 +1,35 @@
+/******************************************************************************
+                         Workshop - #7 Reflection
+Full Name   : Manav Alpeshbhai Zadafiya
+Student ID# : 144095221
+Email       : mazadafiya@myseneca.ca
+Section     : ZCC
+Date        : 2023-11-15
+Authenticity Declaration:
+I have done all the coding by myself and only copied the code that my
+professor provided to complete my workshops and assignments.
+******************************************************************************/
+
+
+In this week, we dive deeper into inheritance, I have learned to inherit a derived 
+class from a base class by utilizing the class keyword followed by the name of the 
+derived class, a colon(:), and the keyword public, protected, or private to specify 
+the type of inheritance. Moreover, I used concept of shadowing and came to know how 
+to shadow a base class member function with a derived class member function, we can 
+define a function in the derived class with the same name and signature as the base 
+class function. This hides the base class function within the scope of the derived 
+class. However, shadowing is not considered good programming practice we can use 
+virtual functions instead. By using concept of overriding(polymorphism) via virtual 
+functions, we can provide different behavior in the derived class.
+Accessing shadowed member functions that are defined in a base class can be done 
+using the scope resolution operator(::). This allows us to explicitly specify which 
+version of the function we want to call—either the base class version or the derived 
+class one.
+In addition to this, I have a closer look to I/O operator overloading by utilizing 
+custom I/O operators with classes allows us to define how instances of these classes 
+should be formatted when sent to an output stream or how they should be read from an 
+input stream. It enhances the usability and readability of the code when dealing with
+input and output operations involving instances of those classes.This allows us to 
+use std::cout << obj; to print obj to the standard output stream using your custom 
+formatting defined in the operator<< function. Similarly, overloading >> allows 
+custom reading of objects from input streams.

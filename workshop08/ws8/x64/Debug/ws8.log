@@ -1,0 +1,8 @@
+﻿  LblShape.cpp
+  Line.cpp
+  main.cpp
+  Rectangle.cpp
+C:\Users\manav\OneDrive\Desktop\SENECA CPA\Sem 2\OOP244\Workshops\workshop08\ws8\Rectangle.cpp(22,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Shape.cpp
+  Generating Code...
+  ws8.vcxproj -> C:\Users\manav\OneDrive\Desktop\SENECA CPA\Sem 2\OOP244\Workshops\workshop08\ws8\x64\Debug\ws8.exe

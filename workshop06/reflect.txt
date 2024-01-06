@@ -1,0 +1,16 @@
+In this week, I have used the concept of overloaded Input-Output operators 
+along with more deeper understanding of constructor overloading. This help 
+me have a very close look how to use and define multiple constructor and 
+how to call it. Moreover, working with I/O operators is not so simple for 
+beginner as its syntax is little confusing. In addition, I have implemented 
+the rule of three for first time which ensure proper resource management. 
+It stats that if a class defines any of the following three special member 
+functions, it should define all three: Destructor, Copy Constructor, and 
+Copy Assignment Operator. Apart from this, I also learned about reading 
+and writing formatted data using I/O stream by overloading extraction(>>) 
+and insertion(<<) operator. The overloads allow us to customize how our 
+class objects are formatted when reading from or writing to streams. 
+This is achieved by implementing the o>> and << operator overloads within 
+class. By following guidelines and implementing the Rule of Three, I 
+create class in workshop that manage resources and provide custom I/O 
+operations for our objects.

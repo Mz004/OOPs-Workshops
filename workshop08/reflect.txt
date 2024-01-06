@@ -1,0 +1,29 @@
+/******************************************************************************
+                         Workshop - #8 Reflection
+Full Name   : Manav Alpeshbhai Zadafiya
+Student ID# : 144095221
+Email       : mazadafiya@myseneca.ca
+Section     : ZCC
+Date        : 2023-11-22
+Authenticity Declaration:
+I have done all the coding by myself and only copied the code that my
+professor provided to complete my workshops and assignments.
+******************************************************************************/
+
+In this week, I have learned about pure virtual functions in C++, which are just
+functions that have no implementation but are declared in the base class with 
+the virtual keyword and assigned the value 0 (pure virtual function). They are 
+meant to be overridden by derived classes to provide their own implementations. 
+Pure virtual functions essentially make the base class abstract, which means we 
+cannot create an instance of that class directly; we must have to create instances 
+of derived classes that implement the pure virtual functions. Moreover, I have 
+learned how to implement custom behavior using virtual functions by defining a 
+base class with virtual functions and then overriding those functions in derived 
+classes to provide specific behavior for each derived class.
+Abstract base classes contains atleast one pure virtual functions and cannot be 
+instantiated directly.On the other hand, Concrete classes have implementations for 
+all their member functions and can be instantiated.
+In this workshop, Shape is an abstract base class with only pure virtual function 
+draw(). LblShape is another abstract base class that inherits from Shape class.
+Line and Rectangle are concrete classes inheriting from LblShape and implementing 
+their own draw() methods.
