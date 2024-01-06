@@ -1,0 +1,26 @@
+/******************************************************************************
+                         Workshop - #5 Reflection
+Full Name   : Manav Alpeshbhai Zadafiya
+Student ID# : 144095221
+Email       : mazadafiya@myseneca.ca
+Section     : ZCC
+Authenticity Declaration:
+I declare this submission is the result of my own work and has not been
+shared with any other student or 3rd party content provider. This submitted
+piece of work is entirely of my own creation.
+******************************************************************************/
+
+This week workshop helps in understanding completely new concepts of 
+member operators to encapsulate data and also helps to understand usage of 
+helper functions in more depth.Member operators are basically a functions 
+that overloads operator that allows us to define the behavior of standard 
+operators when used with objects of a user-defined class. It helps us to 
+enhance readability and usability by costomizing behavior that fits the 
+best for our class. Moreover, in this workshop we uses binary operators 
+that operate on two operands, Type conversion operators that allow implicit
+or explicit conversion between the class type and another type, Unary 
+operators which operate on a single operand. In D.I.Y part, protfolio 
+module help me in developing better understanding of encapsulation of 
+data and activity witin class. Also, The significance of operator 
+overloading to alter class actions according to our requirements 
+can be seen by using overloaded operators as member global functions.
